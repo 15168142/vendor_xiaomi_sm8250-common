@@ -199,16 +199,23 @@ PRODUCT_PACKAGES += \
     libadm \
     libadpcmdec \
     libaudcal \
+    libaudioparsers \
+    libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
+    libcomprcapture \
+    libexthwplugin \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
+    libhdmiedid \
+    libhdmipassthru \
+    libhfp \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
     libmmosal_vendor \
@@ -223,6 +230,8 @@ PRODUCT_PACKAGES += \
     libqcodec2_v4l2codec \
     libqtigef \
     libsmwrapper \
+    libsndmonitor \
+    libspkrprot \
     libssrec \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
@@ -245,6 +254,9 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
     libasphere \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libshoebox \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
@@ -315,6 +327,7 @@ PRODUCT_PACKAGES += \
     libdisplayqos \
     libdisplayskuutils \
     libdpmqmihal \
+    libdpps \
     libdrmfs \
     libdrmtime \
     libdsi_netctrl \
